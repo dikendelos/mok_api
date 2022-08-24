@@ -1,7 +1,8 @@
 {
     "User": {
-        "user": {
-            "string": ["dikens","delos"]
-        }
+        "user": [
+            "dikens",
+            "delos"
+        ]
     }
 }
