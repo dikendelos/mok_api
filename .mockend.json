@@ -1,10 +1,14 @@
 {
     "User": {
         "user": {
-            "string": ["dikens","delos"]
+            "string": [
+                "dikens"
+            ]
         },
         "pwd": {
-            "regexp": "/^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%]).{8,24}$/"
+            "string": [
+                "12345"
+            ]
         }
     }
 }
