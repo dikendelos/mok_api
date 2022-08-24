@@ -2,6 +2,9 @@
     "User": {
         "user": {
             "string": ["dikens","delos"]
+        },
+        "pwd": {
+            "string": ["1234","12345"]
         }
     }
 }
